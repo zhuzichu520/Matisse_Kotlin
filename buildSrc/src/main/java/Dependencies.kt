@@ -30,5 +30,5 @@ object Libs {
     val coil = "io.coil-kt:coil:${Versions.coil}"
     val coil_gif = "io.coil-kt:coil-gif:${Versions.coil}"
     val coil_video = "io.coil-kt:coil-video:${Versions.coil}"
-    val imagezoom = "it.sephiroth.android.library.imagezoom:imagezoom:1.0.4"
+    val imagezoom = "it.sephiroth.android.library.imagezoom:library:1.0.4"
 }
